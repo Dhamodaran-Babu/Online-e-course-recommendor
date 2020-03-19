@@ -1,0 +1,48 @@
+course,course_id,field,sub-field,toughness,degree,pre-requiste,min salary(P.A),job sector
+machine learning,123,engineering,computer science,7,ug,"probability,basic programming","? 600,000.00",IT
+micro biology,112,science,biology,7,ug,zoology,"? 650,000.00",medicine
+fluid dynamics,153,engineering,mechanical ,6,ug,"maths,physics,chemistry","? 1,000,000.00",production
+carbon compounds,142,engineering,chemical ,7,ug,"maths,physics,chemistry","? 700,000.00",research
+electric signals,150,engineering,electrical,6,ug,"maths,physics,chemistry","? 400,000.00",production
+digital electronics,151,engineering,electronics,6,ug,"maths,physics,chemistry","? 400,000.00",production
+data structures,143,engineering,computer science,6,ug,basic programming,"? 350,000.00",IT
+advanced data structures,144,engineering,computer science,7,ug,data structures,"? 450,000.00",IT
+c++,147,engineering,computer science,6,ug,c programming,"? 250,000.00",IT
+c,145,engineering,computer science,5,ug,basic maths,"? 250,000.00",IT
+OOPS,149,engineering,computer science,6,ug,basic programming,"? 400,000.00",IT
+computer architecture,146,engineering,computer science,6,ug,digital electronics,"? 400,000.00",IT
+Operating Systems,148,engineering,computer science,6,ug,basic programming,"? 400,000.00",IT
+JAVA,140,engineering,computer science,7,ug,basic programming,"? 560,000.00",IT
+Visual Basics,132,engineering,computer science,8,ug,basic programming,"? 450,000.00",IT
+discrete mathematics,122,science,mathematics,8,ug ,maths ,"? 350,000.00",mathematics
+artificial intelligence,124,engineering,computer science,9,ug,"machine learning,deep learning,neural networks","? 3,200,000.00",IT
+data analysis,125,science,computer science,8,ug,"statistics,probability","? 650,000.00",IT
+statistics,127,science,computer science,8,ug,maths,"? 750,000.00",any
+python,128,engineering,computer science,7,ug,c programming,"? 450,000.00",IT
+R,129,engineering,computer science,8,ug,c programming,"? 450,000.00",IT
+Java Script ,121,engineering,computer science,7,ug,c programming,"? 450,000.00",IT
+dbms,120,engineering,computer science,6,ug,c programming,"? 300,000.00",IT
+linux,119,engineering,computer science,8,ug,c programming,"? 520,000.00",IT
+ethical hacking,118,engineering,computer science,9,ug,linux,"? 1,250,000.00",IT
+thermodynamics,115,engineering,mechanical ,8,ug,"maths,physics,chemistry","? 489,000.00",production
+solid dynamics,113,engineering,mechanical ,9,ug,"maths,physics,chemistry","? 500,000.00",production
+aero dynamics,114,engineering,mechanical ,10,ug,"maths,physics,chemistry","? 1,200,000.00",production
+IOT,116,engineering,electronics,8,ug,digital electronics,"? 550,000.00",IT
+analog signals,117,engineering,electrical,8,ug,electric signals,"? 400,000.00",production
+signals and systems,133,engineering,electrical,8,ug,electric signals,"? 350,000.00",production
+applied statistics,134,science,mathematics,8,ug,"statistics,probability","? 700,000.00",any
+software engineering,135,engineering,computer science,7,ug,c programming,"? 600,000.00",IT
+visual communication,137,science,media,5,ug,basic,"? 400,000.00",media
+poetry,138,literature,english,6,ug,basic,"? 300,000.00",education
+animation,177,engineering,computer science,8,ug,computer designing,"? 800,000.00",IT
+graphical designing,155,engineering,computer science,9,ug,computer designing,"? 800,000.00",IT
+accounts,188,science,mathematics,8,ug,maths,"? 1,200,000.00",management
+environmental science,211,science,science,4,ug,,"? 250,000.00",education
+game designing,222,engineering,computer science,8,ug,graphical designing,"? 1,200,000.00",IT
+web development,200,engineering,computer science,7,ug,c programming,"? 450,000.00",IT
+app development,220,engineering,computer science,8,ug,Programming,"? 450,001.00",IT
+real analysis,201,science,mathematics,8,ug,maths,"? 450,000.00",any
+numerical analysis,202,science,mathematics,9,ug,maths,"? 450,001.00",any
+quantum mechanics,203,science,mathematics,10,ug,maths,"? 450,002.00",any
+operational research,204,science,mathematics,11,ug,maths,"? 450,003.00",any
+complex analysis,206,science,mathematics,11,pg,maths,"? 450,003.00",any
